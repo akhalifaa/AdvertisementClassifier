@@ -7,3 +7,10 @@
 
 
 
+![](https://github.com/akhalifaa/AdvertisementClassifier/blob/main/pairplot.png)
+
+*A pairplot of all our columns with a Hue of whether the Ad was clicked on or not*
+
+![](https://github.com/akhalifaa/AdvertisementClassifier/blob/main/Confusion%20Matrix.png)
+
+*Confusion Matrix Portraying the Testing Results*
